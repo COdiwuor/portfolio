@@ -1,2 +1,2 @@
 # Portfolio
-Hosted online portfolio.
+Hosted Personal online portfolio.
